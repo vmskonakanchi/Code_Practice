@@ -1,0 +1,7 @@
+﻿  Building Custom Rule C:/Users/vmsko/OneDrive/Documents/GitHub/Code_Practice/Cpp_Files/OpenGL/glfw-3.3.5/tests/CMakeLists.txt
+  glfwinfo.c
+  getopt.c
+  glad_gl.c
+  glad_vulkan.c
+  Generating Code...
+  glfwinfo.vcxproj -> C:\Users\vmsko\OneDrive\Documents\GitHub\Code_Practice\Cpp_Files\OpenGL\glfw-3.3.5\build\tests\Debug\glfwinfo.exe
